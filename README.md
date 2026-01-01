@@ -25,7 +25,7 @@ See [`progress.md`](https://github.com/dinajendeya/CompTIA-Aplus/blob/a37cc512e7
 
 ## 🔗 Resources
 - [CompTIA A+ Official Guide](https://www.comptia.org/en-em/certifications/a/core-1-and-2-v15/)
-- [Professor Messer YouTube Channel](https://youtube.com/@professormesser?si=FlP5L1VAW6HJdp4e)
+- [Professor Messer's YouTube Channel](https://youtube.com/@professormesser?si=FlP5L1VAW6HJdp4e)
 
 ---
 
