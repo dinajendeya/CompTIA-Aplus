@@ -1,11 +1,10 @@
 # A+ Progress Tracker
 
 ## Domains
-- [ ] Hardware Basics
-- [ ] Mobile Devices
-- [ ] BIOS & UEFI
+- [×] Hardware
+- [×] Mobile Devices
+- [×] Networking 
 - [ ] Operating Systems
-- [ ] Networking Fundamentals
 - [ ] Security Essentials
 - [ ] Troubleshooting
 
